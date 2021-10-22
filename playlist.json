@@ -1,16 +1,5 @@
 [
   {
-    "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
-    "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "subtitle": "By Blender Foundation",
-    "thumb": "images/BigBuckBunny.jpg",
-    "title": "Big Buck Bunny",
-    "type": "video/mp4",
-    "start": "2021-10-11 00:00:00",
-    "end": "2021-10-22 23:00:00",
-    "uniqueId": "3a0c8be9-e658-4290-a5b8-292ad3c012e6"
-  },
-  {
     "description": "The first Blender Open Movie from 2006",
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "subtitle": "By Blender Foundation",
